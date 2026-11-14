@@ -1,4 +1,4 @@
-# CMU 95-703 — Database Management Project
+# CMU 95-703, Database Management Project
 
 Oracle Database implementation project for Homer Consulting.
 
